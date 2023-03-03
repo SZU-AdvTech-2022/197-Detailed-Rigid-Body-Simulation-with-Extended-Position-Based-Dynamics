@@ -1,0 +1,8 @@
+@inproceedings{muller2020detailed,
+  title={Detailed Rigid Body Simulation with Extended Position Based Dynamics},
+  author={M{\"u}ller, Matthias and Macklin, Miles and Chentanez, Nuttapong and Jeschke, Stefan and Kim, Tae-Yong},
+  booktitle={Computer Graphics Forum},
+  volume={39},
+  number={8},
+  pages={101--112},
+  year={2020}}
