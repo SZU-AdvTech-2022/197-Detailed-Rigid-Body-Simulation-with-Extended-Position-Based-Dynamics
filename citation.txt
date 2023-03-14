@@ -1,0 +1,9 @@
+@inproceedings{REPO-198,
+    author = {M{\"u}ller, Matthias and Macklin, Miles and Chentanez, Nuttapong and Jeschke, Stefan and Kim, Tae-Yong},
+    booktitle = "Computer Graphics Forum",
+    number = "8",
+    pages = "101--112",
+    title = "{Detailed Rigid Body Simulation with Extended Position Based Dynamics}",
+    volume = "39",
+    year = "2020"
+}
